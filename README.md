@@ -30,7 +30,6 @@ Aplicativo que apresenta dados (nome, idade, quantidade de luas, temperatura amb
   <img width="250" alt="Menu Lateral" src=".github/menu-lateral.jpg" />
   <img width="250" alt="Terra" src=".github/terra.jpg" />
   <img width="250" alt="Júpiter" src=".github/jupiter.jpg" />
-  <img width="250" alt="Mercurio" src=".github/mercurio.jpg" />
   <img width="250" alt="Saturno" src=".github/saturno.jpg" />
   <img width="250" alt="Netuno" src=".github/netuno.jpg" />
 </div>
