@@ -69,7 +69,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 > Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo, ou ainda pela plataforma web do Expo acessando este link: [expo.dev](https://snack.expo.dev/@git/github.com/JohnPetros/solar-system?platform=android).
 
-#### 📟 Rodando o Mobile
+#### 📟 Instruções
 
 ```bash
 # Clone este repositório
