@@ -6,27 +6,28 @@
    <a href="https://github.com/JohnPetros">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/professional-profile">
-   <a href="https://github.com/JohnPetros/professional-profile/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/professional-profile">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/solar-system">
+   <a href="https://github.com/JohnPetros/solar-system/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/solar-system">
    </a>
   </a>
    </a>
-   <a href="https://github.com/JohnPetros/professional-profile/blob/main/LICENSE.md">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/professional-profile">
+   <a href="https://github.com/JohnPetros/solar-system/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/solar-system">
    </a>
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/professional-profile?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/solar-system?style=social">
 </div>
 
 <br>
 
 ## 🖥️ Projeto
 
-Card de apresentação profissional de programador fictício. Inicialmente, o card exibe imagem, nome, e-mail e telefone de contato, porém ao clicar no botão de expandir, é acrescido as tecnologias (cada uma com uma respectiva cor) que o programador domina, além de botões de enviar mensagem e contratá-lo. Projeto desenvolvido como dever de casa para a disciplina de programação mobile com o intuito de praticar o conceito de renderização dinâmica através de funções em React Native.
+Aplicativo que apresenta dados (nome, idade, quantidade de luas, temperatura ambiente) e informações pertinentes a respeito de cada planeta do nosso sistema solar. Na tela principal, o usuário pode escolher o planeta tanto pela imagem clicável, quanto pelo menu lateral que aparece quando o usuário clica no ícone de menu hambúrguer. Este projeto foi desenvolvido como dever de casa para a disciplina de programação mobile com o intuito de praticar o conceito de menu lateral em React Native.
 
 ### Demonstração
 <div align="center">
   <img width="250" alt="Tela Home" src=".github/home.jpg" />
+  <img width="250" alt="Menu Lateral" src=".github/menu-lateral.jpg" />
   <img width="250" alt="Terra" src=".github/terra.jpg" />
   <img width="250" alt="Júpiter" src=".github/jupiter.jpg" />
   <img width="250" alt="Mercurio" src=".github/mercurio.jpg" />
@@ -38,14 +39,10 @@ Card de apresentação profissional de programador fictício. Inicialmente, o ca
 
 ## 📖 Aprendizado
 
-- Uso de funções para renderizações dinâmicas
-- Passagem de funções entre componentes
-- Uso de containers como componentes globais
-- Imagens de Fundo em React
-- Manipulação de opacidade de views
-- Manipulação de overflow de elementos
-- Desestruturação de objetos JavaScript
-- Uso de bibliotecas React para ícones
+- Context API para compartilhar dados entre vários componentes
+- Uso de SGV em React Native
+- Construção de menu lateral tanto de forma "nativa", quanto customizada
+- Uso de biblioteca de ícones próprias para React Native
 
 <hr>
 
@@ -75,10 +72,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone  https://github.com/JohnPetros/professional-profile.git
+$ git clone  https://github.com/JohnPetros/solar-system.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd professional-profile
+$ cd solar-system
 
 # Instale as dependências
 $ npm install
