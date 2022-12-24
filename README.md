@@ -53,6 +53,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[Expo](https://expo.io/)**
 - **[Expo Vector Icons](https://icons.expo.fyi/)**
 - **[React Navigation](https://reactnavigation.org/)**
+<hr>
 
 ## Como rodar este projeto
 
