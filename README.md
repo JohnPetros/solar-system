@@ -1,5 +1,5 @@
 <h1 align="center">
-    Professional Profile Card
+    Solar System App
 </h1>
 
 <div align="center">
