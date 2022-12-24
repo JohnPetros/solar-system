@@ -52,6 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[React Native](https://expo.io/)**
 - **[Expo](https://expo.io/)**
 - **[Expo Vector Icons](https://icons.expo.fyi/)**
+- **[React Navigation](https://reactnavigation.org/)**
 
 ## Como rodar este projeto
 
